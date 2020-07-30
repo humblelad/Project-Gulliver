@@ -46,14 +46,14 @@ This will fastrack taking down ads from such sites and give better opportunities
 
 ## How you can help?
 
-If you find sites violating Google TOC and still have adSense enabled, issues a pull request to site.txt with a screenshot of the running ad.
+If you find sites violating Google TOC and still have adSense enabled, issues a pull request to site.md with a screenshot of the running ad.
 A moderator will review it,  approve and then report the violation to Google Support  Team.
 
-We will hold frequent review to ensure if the site has been stripped off from the AdSense program. If so, the site will be moved onto banned.txt .
+We will hold frequent review to ensure if the site has been stripped off from the AdSense program. If so, the site will be moved onto banned.md .
 
 ## Calling out:
 Programmers for building automated tools.
-Bloggers who believe in success of genuine	content creators.
+Bloggers who believe in success of genuine content creators and help find Ad fraud sites .
 Security researchers to detect and find sites employing Google ads in malicious ways.
 
 
