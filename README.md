@@ -3,7 +3,7 @@
 
 **Project Gulliver** is a open source initiative to detect, flag and report sites utilizing ads which go against AdSense usage policies. 
 
-This project focuses more towards Google Adsense since it’s the most widely used (legal online ad platform) present right now. It pay well for (good) content. 
+This project focuses more towards Google AdSense since it’s the most widely used (legal online ad platform) present right now. It pay well for (good) content. 
 
 ### Adsense specifically has several ways for showing ads including:
 
@@ -24,11 +24,11 @@ That’s a generous chunk of cash, compared to other ad platforms. Here is where
 *[ClickGuardian](https://www.clickguardian.co.uk/click-fraud-statistics/) states that estimated $27..2+ billion in estimated revenue was lost to click fraud in the year 2018.*
 
 
-Google Ads pay for both PPC(Pay per Click) and CPM (Cost per thousand impressions).PPC gets more revenue than CPM. There are a lot of ad fraud schemes using bots, manual pay per click etc going around from years. Thankfully Google has procedures in place using deeplearing and other internal tools to detect and flag such activities. 
+Google Ads pay for both PPC(Pay per Click) and CPM (Cost per thousand impressions).PPC gets more revenue than CPM. There are a lot of ad fraud schemes using bots, manual pay per click etc going around from years. Thankfully Google has procedures in place using deeplearning and other internal tools to detect and flag such activities. 
 
 ## What is the goal of this project?
 
-One thing which I personally disliked about Google is its Adsense approval process. I once used to be a blogger, who got dismayed by Google for approving low quality blog, pirated movie sites. Google fails to verify properly several sites which pushes low quality content and host hoard of ads on it. It requires a lot of manual verification to find and suspend such sites from the program and is usually time consuming .
+One thing which I personally disliked about Google is its Adsense approval process. I once used to be a blogger, who got dismayed by Google for approving low quality blogs, pirated movie sites. Google fails to verify properly several sites which pushes low quality content and host hoard of ads on it. It requires a lot of manual verification to find and suspend such sites from the program and is usually time consuming .
 
 Unfortunately, there is only a one way possible email communication (https://support.google.com/adsense/troubleshooter/119050) which gives a place to report such violating sites.
 
@@ -42,7 +42,7 @@ You can read more about Terms and conditions of Google Adsense [here.](https://s
 
 ***Project Gulliver aims at creating a shorter interaction time with Google moderators and takedown sites having pirated , spammy, clickbait content which runs Google AdSense and may have not yet been detected by Google review team.***
 
-This will fastrack taking down ads from such sites and give better opportunities for genuine content creators.
+This will fast-track taking down ads from such sites and give better opportunities for genuine content creators.
 
 ## How you can help?
 
@@ -61,6 +61,6 @@ We will hold frequent review to ensure if the site has been stripped off from th
 We want this repo to be a go to place where the Google Team comes , take a look, verify and immediately ban such sites from the Adsense platform. Being well aware that there are tools and filters in place to flag many such sites, still internet is a vast ocean; there is good chance for drops to leak out from filters, and we are exactly here for that.
 
 ## Communication:
-If you are from Google/ or have any ideas feel free to issue a pull request to contact me. 
+If you are from Google/ or have any ideas feel free  to issue a pull request to contact me. 
 
 *Disclaimer: This project is not associated to Google or its partners nor has any backing. This is my personal endeavour to correct problems I faced when I was a blogger and which I feel can help change as a Security Researcher now.* 
